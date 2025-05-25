@@ -1,4 +1,4 @@
-# Türkiye-Deprem-Risk-Analizi-ve-Web-Tabanli-Bolgesel-Uyari-Sistemi
+# Turkiye-Deprem-Risk-Analizi-ve-Web-Tabanli-Bolgesel-Uyari-Sistemi
 
 
 Python-Kismi.zip klasörü içinde iken, PowerShell içinde;
